@@ -1,0 +1,9 @@
+{
+  "name":"Caixa alta",
+  "version":"1.0",
+  "description":"Transforma um texto em caixa alta",
+  "browser_action":{
+      "default_popup":"index.html"
+  },
+  "manifest_version":2
+}
